@@ -32,10 +32,10 @@ import (
 	"sync"
 	"unsafe"
 
-	_ "github.com/webview/webview_go/libs/mswebview2"
-	_ "github.com/webview/webview_go/libs/mswebview2/include"
-	_ "github.com/webview/webview_go/libs/webview"
-	_ "github.com/webview/webview_go/libs/webview/include"
+	_ "github.com/cretingame/webview_go_ubuntu/libs/mswebview2"
+	_ "github.com/cretingame/webview_go_ubuntu/libs/mswebview2/include"
+	_ "github.com/cretingame/webview_go_ubuntu/libs/webview"
+	_ "github.com/cretingame/webview_go_ubuntu/libs/webview/include"
 )
 
 func init() {
